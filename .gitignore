@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+target/
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Caches
+.snfoundry_cache/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
