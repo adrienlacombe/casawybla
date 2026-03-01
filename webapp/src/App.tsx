@@ -34,7 +34,7 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 800, margin: "0 auto", padding: 24, fontFamily: "sans-serif" }}>
-      <h1>CASAWYL</h1>
+      <h1>casawybla</h1>
       <p>Bitcoin Ledger x Starknet Account POC</p>
       <hr />
 

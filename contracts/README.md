@@ -1,4 +1,4 @@
-# CASAWYL Contracts
+# casawybla Contracts
 
 Fork of [Argent v0.5.0](https://github.com/argentlabs/argent-contracts-starknet) with an added **Bitcoin signer** variant. The Bitcoin signer verifies secp256k1 signatures wrapped with the Bitcoin message prefix (`\x18Bitcoin Signed Message:\n` + double SHA-256), enabling Ledger Bitcoin app support for Starknet accounts.
 
@@ -58,7 +58,7 @@ SCARB=$(asdf where scarb 2.10.1)/bin/scarb snforge test
 ## Declare on Sepolia
 
 ```bash
-sncast --account casawyl-deployer declare --contract-name ArgentAccount
+sncast --account casawybla-deployer declare --contract-name ArgentAccount
 ```
 
 The declared class hash goes into `webapp/src/lib/constants.ts` as `ACCOUNT_CLASS_HASH`.

@@ -1,4 +1,4 @@
-# CASAWYL
+# casawybla
 
 **Bitcoin Ledger x Starknet Account** — a POC that connects a Ledger hardware wallet (Bitcoin app) to deploy and control an Argent account on Starknet Sepolia.
 

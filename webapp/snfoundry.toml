@@ -1,4 +1,4 @@
 
-[sncast.casawyl-deployer]
-account = "casawyl-deployer"
+[sncast.casawybla-deployer]
+account = "casawybla-deployer"
 network = "sepolia"

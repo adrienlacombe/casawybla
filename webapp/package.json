@@ -1,5 +1,5 @@
 {
-  "name": "casawyl-webapp",
+  "name": "casawybla-webapp",
   "description": "Bitcoin Ledger x Starknet Account POC — control a Starknet account with a Ledger Bitcoin app",
   "license": "MIT",
   "private": true,
